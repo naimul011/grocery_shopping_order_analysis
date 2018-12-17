@@ -1,1 +1,3 @@
-# grocery_shopping_order_analysis
+# Grocery Shopping Order Analysis
+
+Demo: open notebook.ipynb
